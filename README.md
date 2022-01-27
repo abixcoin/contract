@@ -29,16 +29,23 @@ transactions, low fee fees and reliable infrastructure.
 Total Supply : 8,888,888,888 ABX
 Contract : 0x3a89a48b50f8f2058c0876ae202f3b861e3eb081
 Decimals : 8
+
 - Wallet information reserved for ABX Coin Activities;
-o Game and Application Development : 1,000,000 ABX
+
+- Game and Application Development : 1,000,000 ABX
 Wallet : 0xB01620FD94DE766cf1Ae2878e405DCEB9f549b6e
-o Advertisement and Activities : 1,000,000 ABX
+
+- Advertisement and Activities : 1,000,000 ABX
 Wallet : 0xc0043F5D5d2445f7Cc12F1605d6E6285785BEd65
-o CSO (Civil Society Organization and Campaigns) : 2,000,000 ABX
+
+- CSO (Civil Society Organization and Campaigns) : 2,000,000 ABX
 Wallet : 0xda7b01E77F86632933A397C88cA66130572beb88
-o R&D (Resource Development) : 2,000,000 ABX
+
+- R&D (Resource Development) : 2,000,000 ABX
 Wallet : 0x6FF349598e4a25F0e4eA2121AC179c4eFF70BeEb
-o Airdrops and Campaigns : 500,000 ABX
+
+- Airdrops and Campaigns : 500,000 ABX
 Wallet : 0xD10FECf148122160e495246bf6Dff99549676B17
-o Developers : 2,000,000 ABX
+
+- Developers : 2,000,000 ABX
 Wallet : 0xD92c679E95548b35b38484faB76E75684aB5869b
