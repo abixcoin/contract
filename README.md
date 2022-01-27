@@ -18,17 +18,19 @@ In this context;
 - Reducing activities that cause desertification
 - Increasing the use of renewable energy sources
 - Conservation of fresh water resources
-3
+
 2. Purpose of ABX Coin
 It is aimed to minimize the effects of the elements mentioned in the Vision and Mission. These
 effects pose a danger to human and living life, and as a result of these dangers, to create more
 livable, reliable, clean and green areas for the future.
+
 3. ABX Production and Usage Information
 ABX Coin is a token produced with the BNB infrastructure. It has been created with fast transfer
 transactions, low fee fees and reliable infrastructure.
-Total Supply : 8,888,888,888 ABX
-Contract : 0x3a89a48b50f8f2058c0876ae202f3b861e3eb081
-Decimals : 8
+
+-Total Supply : 8,888,888,888 ABX
+-Contract : 0x3a89a48b50f8f2058c0876ae202f3b861e3eb081
+-Decimals : 8
 
 - Wallet information reserved for ABX Coin Activities;
 
