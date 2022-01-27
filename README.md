@@ -41,7 +41,7 @@ Wallet : 0xB01620FD94DE766cf1Ae2878e405DCEB9f549b6e
 - Advertisement and Activities : 1,000,000 ABX<br>
 Wallet : 0xc0043F5D5d2445f7Cc12F1605d6E6285785BEd65
 
-- CSO (Civil Society Organization and Campaigns) : 2,000,000 ABX
+- CSO (Civil Society Organization and Campaigns) : 2,000,000 ABX<br>
 Wallet : 0xda7b01E77F86632933A397C88cA66130572beb88
 
 - R&D (Resource Development) : 2,000,000 ABX<br>
