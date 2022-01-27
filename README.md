@@ -29,12 +29,14 @@ livable, reliable, clean and green areas for the future.
 ABX Coin is a token produced with the BNB infrastructure. It has been created with fast transfer
 transactions, low fee fees and reliable infrastructure.
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 - Total Supply : 8,888,888,888 ABX<br>
 - Contract : <a href="https://bscscan.com/token/0x3a89a48b50f8f2058c0876ae202f3b861e3eb081#code">0x3a89a48b50f8f2058c0876ae202f3b861e3eb081</a><br>
 - Decimals : 8
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 - Wallet information reserved for ABX Coin Activities;
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 - Game and Application Development : 1,000,000 ABX<br>
 Wallet : <a href="https://bscscan.com/address/0xB01620FD94DE766cf1Ae2878e405DCEB9f549b6e">0xB01620FD94DE766cf1Ae2878e405DCEB9f549b6e</a>
 
@@ -48,7 +50,7 @@ Wallet : <a href="https://bscscan.com/address/0xda7b01E77F86632933A397C88cA66130
 Wallet : <a href="https://bscscan.com/address/0x6FF349598e4a25F0e4eA2121AC179c4eFF70BeEb">0x6FF349598e4a25F0e4eA2121AC179c4eFF70BeEb</a>
 
 - Airdrops and Campaigns : 500,000 ABX<br>
-- Wallet : <a href="https://bscscan.com/address/0xD10FECf148122160e495246bf6Dff99549676B17">0xD10FECf148122160e495246bf6Dff99549676B17</a>
+Wallet : <a href="https://bscscan.com/address/0xD10FECf148122160e495246bf6Dff99549676B17">0xD10FECf148122160e495246bf6Dff99549676B17</a>
 
 - Developers : 2,000,000 ABX<br>
-- Wallet : <a href="https://bscscan.com/address/0xD92c679E95548b35b38484faB76E75684aB5869b">0xD92c679E95548b35b38484faB76E75684aB5869b</a>
+Wallet : <a href="https://bscscan.com/address/0xD92c679E95548b35b38484faB76E75684aB5869b">0xD92c679E95548b35b38484faB76E75684aB5869b</a>
