@@ -28,8 +28,8 @@ livable, reliable, clean and green areas for the future.
 ABX Coin is a token produced with the BNB infrastructure. It has been created with fast transfer
 transactions, low fee fees and reliable infrastructure.
 
--Total Supply : 8,888,888,888 ABX
--Contract : <a href="">0x3a89a48b50f8f2058c0876ae202f3b861e3eb081</a>
+-Total Supply : 8,888,888,888 ABX<br>
+-Contract : <a href="">0x3a89a48b50f8f2058c0876ae202f3b861e3eb081</a><br>
 -Decimals : 8
 
 - Wallet information reserved for ABX Coin Activities;
