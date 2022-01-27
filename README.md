@@ -7,6 +7,7 @@ result of global warming, fires, climate crises, damage to our world and reducti
 aimed to protect nature, reduce living areas with global climate change and industrialization,
 protect the ecosystem, re-green the forests destroyed by forest fires and increase the rate of clean
 air.
+
 In addition, we instill the awareness of protecting natural life in people.
 In this context;
 - To increase biodiversity
@@ -29,7 +30,7 @@ ABX Coin is a token produced with the BNB infrastructure. It has been created wi
 transactions, low fee fees and reliable infrastructure.
 
 -Total Supply : 8,888,888,888 ABX<br>
--Contract : <a href="">0x3a89a48b50f8f2058c0876ae202f3b861e3eb081</a><br>
+-Contract : <a href="https://bscscan.com/token/0x3a89a48b50f8f2058c0876ae202f3b861e3eb081#code">0x3a89a48b50f8f2058c0876ae202f3b861e3eb081</a><br>
 -Decimals : 8
 
 - Wallet information reserved for ABX Coin Activities;
