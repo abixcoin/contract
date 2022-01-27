@@ -35,20 +35,20 @@ transactions, low fee fees and reliable infrastructure.
 
 - Wallet information reserved for ABX Coin Activities;
 
-- Game and Application Development : 1,000,000 ABX
+- Game and Application Development : 1,000,000 ABX<br>
 Wallet : 0xB01620FD94DE766cf1Ae2878e405DCEB9f549b6e
 
-- Advertisement and Activities : 1,000,000 ABX
+- Advertisement and Activities : 1,000,000 ABX<br>
 Wallet : 0xc0043F5D5d2445f7Cc12F1605d6E6285785BEd65
 
 - CSO (Civil Society Organization and Campaigns) : 2,000,000 ABX
 Wallet : 0xda7b01E77F86632933A397C88cA66130572beb88
 
-- R&D (Resource Development) : 2,000,000 ABX
+- R&D (Resource Development) : 2,000,000 ABX<br>
 Wallet : 0x6FF349598e4a25F0e4eA2121AC179c4eFF70BeEb
 
-- Airdrops and Campaigns : 500,000 ABX
+- Airdrops and Campaigns : 500,000 ABX<br>
 Wallet : 0xD10FECf148122160e495246bf6Dff99549676B17
 
-- Developers : 2,000,000 ABX
+- Developers : 2,000,000 ABX<br>
 Wallet : 0xD92c679E95548b35b38484faB76E75684aB5869b
