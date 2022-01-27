@@ -1,5 +1,5 @@
-# contract
-Abix Coin BEP20 Smart Contract
+# Abix Coin BEP20 Smart Contract
+Abix Coin BEP20 Smart Contract MIT
 
 1. Vision and Mission<br>
 There are many negative factors such as the extinction of plant and animal species as a
