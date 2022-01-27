@@ -1,7 +1,7 @@
 # contract
 Abix Coin BEP20 Smart Contract
 
-1. Vision and Mission
+1. Vision and Mission<br>
 There are many negative factors such as the extinction of plant and animal species as a
 result of global warming, fires, climate crises, damage to our world and reduction of habitats. It is
 aimed to protect nature, reduce living areas with global climate change and industrialization,
@@ -20,12 +20,12 @@ In this context;
 - Increasing the use of renewable energy sources
 - Conservation of fresh water resources
 
-2. Purpose of ABX Coin
+2. Purpose of ABX Coin<br>
 It is aimed to minimize the effects of the elements mentioned in the Vision and Mission. These
 effects pose a danger to human and living life, and as a result of these dangers, to create more
 livable, reliable, clean and green areas for the future.
 
-3. ABX Production and Usage Information
+3. ABX Production and Usage Information<br>
 ABX Coin is a token produced with the BNB infrastructure. It has been created with fast transfer
 transactions, low fee fees and reliable infrastructure.
 
